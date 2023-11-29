@@ -4,7 +4,7 @@ I am Yujie Peng, people call me <em>Joy</em>. I am a Frontend developer and curr
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yujie(Joy)Peng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-yujiepeng/)](https://wwww.linkedin.com/in/joy-yujiepeng/)
+[![Linkedin Badge](https://img.shields.io/badge/-Yujie(Joy)Peng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-yujiepeng/)](https://www.linkedin.com/in/joy-yujiepeng/)
 [![Gmail Badge](https://img.shields.io/badge/-joyyujiepeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyyujiepeng@gmail.com)](mailto:joyyujiepeng@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

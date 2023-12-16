@@ -14,7 +14,7 @@ const joy = {
   pronouns: "she" | "her",
   mbti: "INFJ" | "ISTJ" | "INTJ",
   code: [Javascript, Typescript, HTML5, CSS3, React, Next, Vue, Node, SQL],
-  tools: [Git, Jira, Jenkins, Figma, Boostrap5, TailwindCSS, ChakraUI],
+  tools: [Git, Jira, Jenkins, Figma, TailwindCSS, Boostrap5, ChakraUI],
   interests: ["coding", "watching films", "exercise", "cooking", "cosmology", "philosophy", "listening to music"]
 }
 ```

@@ -12,10 +12,10 @@ Feel free to connect with me here:
 ```javascript
 const joy = {
   pronouns: "she" | "her",
-  mbti: "INFJ" | "ISTJ" | "INTJ",
-  code: [Javascript, Typescript, HTML5, CSS3, React, Next, Vue, Node, SQL],
+  mbti: "ISTJ",
+  code: [JavaScript, TypeScript, HTML5, CSS3, React, Next, Vue, Node, Express, SQL, MongoDB],
   tools: [Git, Jira, Jenkins, Figma, TailwindCSS, Boostrap5, ChakraUI],
-  interests: ["coding", "watching films", "exercise", "cooking", "cosmology", "philosophy", "listening to music"]
+  interests: ["coding", "boxing", "cooking", "reading"]
 }
 ```
 

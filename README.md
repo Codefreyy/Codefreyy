@@ -13,9 +13,8 @@ Feel free to connect with me here:
 const joy = {
   pronouns: "she" | "her",
   mbti: "ISTJ",
-  code: [JavaScript, TypeScript, HTML5, CSS3, React, Next, Vue, Node, Express, SQL, MongoDB],
-  tools: [Git, Jira, Jenkins, Figma, TailwindCSS, Boostrap5, ChakraUI],
-  interests: ["coding", "boxing", "cooking", "reading"]
+  code: [JavaScript, TypeScript, React.js, Next.js, Vue.js, Node.js, Express.js, Tailwind CSS, d3.js]
+  interests: ["boxing", "reading"]
 }
 ```
 

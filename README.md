@@ -10,11 +10,10 @@ Feel free to connect with me here:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const joy = {
+const Joy = {
   pronouns: "she" | "her",
-  mbti: "ISTJ",
-  code: [JavaScript, TypeScript, React.js, Next.js, Vue.js, Node.js, Express.js, Tailwind CSS, d3.js]
-  interests: ["boxing", "reading"]
+  skills: [React, Vue3, Next, TypeScript, Node, Express, MongoDB, Prisma, TailwindCSS, HTML/CSS],
+  interests: ['boxing', 'cooking', 'self-media']
 }
 ```
 

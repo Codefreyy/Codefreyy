@@ -12,8 +12,8 @@ Feel free to connect with me here:
 ```javascript
 const Joy = {
   pronouns: "she" | "her",
-  skills: [React, Vue3, Next, TypeScript, Node, Express, MongoDB, Prisma, TailwindCSS, HTML/CSS],
-  interests: ['boxing', 'cooking', 'self-media']
+  skills: [React, Vue, Next, TypeScript, Python, Node, MongoDB, Prisma, Tailwind CSS, HTML/CSS, Git, Github, Webpack],
+  interests: ['cooking', 'podcast', 'self-media']
 }
 ```
 
